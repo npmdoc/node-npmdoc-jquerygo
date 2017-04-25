@@ -1,4 +1,7 @@
-# api documentation for  [jquerygo (v0.0.16)](http://github.com/travist/jquery.go.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquerygo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquerygo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquerygo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquerygo)
+# npmdoc-jquerygo
+
+#### basic api documentation for  [jquerygo (v0.0.16)](http://github.com/travist/jquery.go.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquerygo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquerygo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquerygo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquerygo)
+
 #### A node.js package to test and automate the web using jQuery with PhantomJS.
 
 [![NPM](https://nodei.co/npm/jquerygo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jquerygo)
@@ -54,7 +57,8 @@
         "url": "git://github.com/travist/jquery.go.js.git"
     },
     "scripts": {},
-    "version": "0.0.16"
+    "version": "0.0.16",
+    "bin": {}
 }
 ```
 
